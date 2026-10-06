@@ -1,0 +1,6 @@
+{
+  "name": "Anaaya Residency - Luxury Hotel in Guwahati near Kamakhya Temple",
+  "description": "Book comfortable, well-appointed rooms at Anaaya Residency, Guwahati, located near Kamakhya Temple. Enjoy city & mountain views, 24x7 kitchen, free Wi-Fi, and warm hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
